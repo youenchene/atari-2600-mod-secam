@@ -38,8 +38,7 @@ Be aware you can damage your Atari 2600 and it's your responsability.
 
 Go to PCBWay, Fast PCB, JL PCB or other supplier using this zip file : [gerber/AtariSecam.zip](gerber/AtariSecam.zip).
 
-If your lazy your use my PCBWay project and make your order from here : (to be filled).
-
+If your lazy your use my PCBWay project and make your order from here : https://www.pcbway.com/project/shareproject/Atari_2600_Video_Mod_SECAM_857de2b7.html
 ## Components
 
 ![PCB View](img/convertisseur-video-atari-2600-secam-kit.jpg)
